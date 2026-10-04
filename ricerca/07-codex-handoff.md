@@ -6,6 +6,16 @@
 
 **Ambito del passaggio:** la prima fase è **solo DUE DILIGENCE TECNICA**: API, librerie, architettura, dipendenze esterne, blocchi tecnici, hosting, sicurezza, complessità, tempi realistici. **Non** si costruisce l'MVP. La decisione di costruire si prende solo dopo che la due diligence conferma le ipotesi tecniche e, idealmente, dopo gli esperimenti di validazione di `05-top5.md`, che possono girare in parallelo.
 
+> **Aggiornamento della seconda sessione.** Alcune domande aperte qui sotto sono state chiuse con la sola ricerca: vedi [`08-approfondimenti.md`](08-approfondimenti.md).
+>
+> - Palo Alto pubblica advisory in JSON strutturato e CISA KEV è scaricabile. Fortinet ha un feed RSS e CSAF per singolo advisory; Cisco ha l'API openVuln.
+> - **SonicWall non ha un'API pubblica** e la **lista EOS di CISA non è pubblica**. eol.network (92k SKU, API) è una possibile fonte EOL.
+> - ShipBob ha una Billing API a livello di spedizione e ShipMonk esporta CSV.
+> - La piattaforma ENISA **non ha API** al lancio.
+> - Il progetto UE SECURE cofinanzia le PMI CRA fino a 30.000 €.
+>
+> Codex deve comunque riconfermare questi punti nella due diligence tecnica.
+
 ## Verifica delle 10 condizioni del metodo
 
 | Condizione | C2 Advisory edge MSP | C1 Audit 3PL | C3 Kit CRA embedded |

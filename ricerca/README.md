@@ -16,7 +16,7 @@ Nuovo filone di ricerca, **indipendente** dal progetto precedente. Non ne usa cl
 | # | Opportunità | Punteggio | Kill risk |
 |---|---|---|---|
 | 1 | **Tracker MSP di advisory, EOL e licenze per firewall/VPN dei clienti** | 65/100 | Medio |
-| 2 | **Audit self-service delle fatture 3PL per brand DTC piccoli** | 63/100 | Medio |
+| 2 | **Audit self-service delle fatture 3PL per brand DTC piccoli** | 64/100 | Medio |
 | 3 | **Kit CRA per piccoli team embedded (SBOM bare-metal, vulnerabilità, segnalazione 24h, documentazione)** | 58/100 | Medio (tendente ad alto) |
 
 Nessuna delle tre ha ancora prove di **disponibilità a pagare**. Il passaggio raccomandato è alla **due diligence tecnica** e, in parallelo, agli esperimenti di validazione. **Non** è un via libera alla costruzione.
@@ -32,6 +32,7 @@ Nessuna delle tre ha ancora prove di **disponibilità a pagare**. Il passaggio r
 | Shortlist | top 5 con scheda completa | [05-top5.md](05-top5.md) |
 | Confronto | tabella finale | [06-tabella-comparativa.md](06-tabella-comparativa.md) |
 | Handoff | pacchetti di due diligence tecnica per le prime 3 | [07-codex-handoff.md](07-codex-handoff.md) |
+| Approfondimenti | fonti dati verificate, API 3PL, piattaforma ENISA, fondi SECURE | [08-approfondimenti.md](08-approfondimenti.md) |
 
 ## Risultato trasversale più importante
 
